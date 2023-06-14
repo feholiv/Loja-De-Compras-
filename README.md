@@ -1,6 +1,6 @@
 <div>
   <h1>Loja de Compras</h1>
-  <p>Este é um projeto criado com o intuito de aprender HTML5 e Bootstrap através da "Escola de Front_end" Alura.</p>
+  <p>Este é um projeto criado com o intuito de aprender HTML5 e Bootstrap através da "Escola de Front-End" Alura.</p>
 </div>
 
 
